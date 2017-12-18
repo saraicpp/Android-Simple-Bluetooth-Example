@@ -121,6 +121,12 @@
             android:layout_alignRight="@+id/off"
             android:layout_alignEnd="@+id/off" />
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Open Graphs"
+            android:id="@+id/grafici"/>
+
     </LinearLayout>
 
 </RelativeLayout>
